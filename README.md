@@ -31,11 +31,9 @@
   <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
   <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 </p>
-<p align="center">
+  
 <h2 align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
-
-
-<p align="center"><img src="https://img-blog.csdnimg.cn/f7384c88956d4378b72e47548e19c9f8.gif" alt="f7384c88956d4378b72e47548e19c9f8.gif" width="50" /></p><p align="center">
+<p align="center">
   <a href="#"><img src="https://img.shields.io/badge/juejin-%E6%8E%98%E9%87%91-blue.svg" alt="掘金" /></a>
   <a href="#"><img src="https://img.shields.io/badge/bilibili-%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9-critical" alt="哔哩哔哩" /></a>
   <a href="#"><img src="https://img.shields.io/badge/CSDN-%E6%91%B8%E9%B1%BC%E7%A4%BE%E5%8C%BA-yellow" alt="CSDN-%E6%91%B8%E9%B1%BC%E7%A4%BE%E5%8C%BA-yellow" /></a>

@@ -20,7 +20,7 @@
 
 
 
-
+<h2 align="center">兽人永不为奴，除非包吃包住 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
 <!-- <h2 align="center"><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/></a>

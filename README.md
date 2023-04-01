@@ -7,7 +7,7 @@
 </p> -->
 
 <div align="center">
-<i>A curated list of awesome Github Profile READMEs</i>
+<i><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2></i>
 
 <!-- <a href=""><img src="https://img.shields.io/github/stars/abhisheknaiidu/awesome-github-profile-readme" alt="Stars Badge"/></a>
 <a href=""><img src="https://img.shields.io/github/forks/abhisheknaiidu/awesome-github-profile-readme" alt="Forks Badge"/></a>
